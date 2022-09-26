@@ -11,7 +11,7 @@ public class Desert extends Bioma {
 	 * 
 	 * @param name
 	 */
-	public void setName(string name) {
+	public void setName(String name) {
 		// TODO - implement Desert.setName
 		throw new UnsupportedOperationException();
 	}
